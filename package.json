@@ -1,0 +1,25 @@
+{
+  "name": "Resume",
+  "version": "1.0.0",
+  "description": "Building resume website for the future!",
+  "main": "like_button.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackyjon/Resume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackyjon/Resume/issues"
+  },
+  "homepage": "https://github.com/blackyjon/Resume#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^9.1.2",
+    "braces": "^3.0.2"
+  }
+}
