@@ -1,2 +1,2 @@
-# Chicken-tidbits
-New project. Attempting to see what can be accomplished with JavaScript. 
+# Resume 
+Building resume website for the future!
