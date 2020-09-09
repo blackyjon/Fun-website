@@ -4,7 +4,8 @@
   "description": "Building resume website for the future!",
   "main": "like_button.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "lite-server",
+    "start": "npm run dev"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,8 @@
     "babel-cli": "^6.26.0",
     "babel-preset-react-app": "^9.1.2",
     "braces": "^3.0.2"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
   }
 }
