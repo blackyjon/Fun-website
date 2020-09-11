@@ -5,3 +5,6 @@ This allows for a new basic html to be added automatically.
 
 Creates a new div tag with a class
 - .gallery + Tab 
+
+Full screen VS code from side view
+- F11 
