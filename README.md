@@ -6,9 +6,10 @@ Building a fun website for the future!
 
 # Implemented (TestCafe)[https://devexpress.github.io/testcafe/]
 For end to end javaScript testing. Currenly only runs example page.js.
-"npm run" + "test-browser" 
+"npm run test" runs chrome by config default or "npm run" + "test-browser" 
 
-`npm run test-chrome`
+`npm run test`
+`npm run test-firefox`
 `npm run test-edge`
 `npm run test-ie`
 

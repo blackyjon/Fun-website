@@ -6,9 +6,10 @@
   "scripts": {
     "dev": "lite-server",
     "start": "npm run dev",
-    "test-chrome": "npx testcafe chrome tests/*page*",
-    "test-edge": "npx testcafe edge tests/*page*",
-    "test-ie": "npx testcafe ie tests/*page*"
+    "test": "npx testcafe",
+    "test-edge": "npx testcafe edge",
+    "test-firefox": "npx testcafe firefox",
+    "test-ie": "npx testcafe ie"
   },
   "repository": {
     "type": "git",
