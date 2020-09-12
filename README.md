@@ -1,2 +1,5 @@
-# Resume 
-Building resume website for the future!
+# Fun Website 
+Building a fun website for the future!
+
+# To start project
+`npm start`
