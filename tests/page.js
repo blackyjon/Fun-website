@@ -7,9 +7,9 @@ fixture `Getting Started`
 
 test('My first test', async t => {
     await t
-        .typeText('#developer-name', 'John Smith')
+        .typeText('#developer-name', 'Jonny Bravo')
         .click('#submit-button')
 
         // Use the assertion to check if the actual header text is equal to the expected one
-        .expect(Selector('#article-header').innerText).eql('Thank you, John Smith!');
+        .expect(Selector('#article-header').innerText).eql('Thank you, Jonny Bravo!');
 });
