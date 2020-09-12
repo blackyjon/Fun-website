@@ -1,7 +1,7 @@
 {
   "port": 8000,
   "injectChanges": true,
-  "files": ["index.html", "Styles/main.css"],
+  "files": ["index.html", "styles/main.css"],
   "server": {
     "baseDir": "./",
     "index": "index.html",
