@@ -1,30 +1,64 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="Styles/main.css" type="text/css"></link>
-    <title>Future Resume!</title>
-  </head>
-  <body>
-    <nav>
-      <div class="logo">
-        <h4>The Nav</h4>
-      </div>
-      <ul class="nav-links">
-        <li><a href="tile.html">tiles</a></li>
-        <li><a href="#">about</a></li>
-        <li><a href="#">work</a></li>
-        <li><a href="#">projects</a></li>
-      </ul>
-      <div class="burger">
-        <div class="line1"></div>
-        <div class="line2"></div>
-        <div class="line3"></div>
-      </div>
-    </nav>
 
-      <script src="Front-end/nav.js"></script>
-    </body>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./fullpage.min.css">
+  <link rel="stylesheet" href="styles/main.css" type="text/css">
+  </link>
+  <title>Future stuff!</title>
+</head>
+
+<body>
+  <nav>
+    <div class="logo">
+      <h4>Sky Net</h4>
+    </div>
+    <ul class="nav-links">
+      <li><a href="tile.html">tiles</a></li>
+      <li><a href="#">about</a></li>
+      <li><a href="#">work</a></li>
+      <li><a href="#">projects</a></li>
+    </ul>
+    <div class="burger">
+      <div class="line1"></div>
+      <div class="line2"></div>
+      <div class="line3"></div>
+    </div>
+  </nav>
+
+  <div id="fullpage">
+    <section class="section s1">
+      <h1>Home Decoration</h1>
+    </section>
+    <section class="section s2">
+      <h1>Different styles</h1>
+      <div class="description">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad quidem dolor eaque vel maiores ducimus earum
+          minima dolores illo sed sint cumque quis amet magnam repellat, eius dignissimos, voluptatem ratione?</p>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro, repudiandae provident? Incidunt veniam quo
+          autem culpa voluptatum! Exercitationem, at tenetur ad delectus suscipit ex explicabo, enim totam, dolores nemo
+          amet?</p>
+      </div>
+      <img src="./imgs/png/chair2.png" alt="chair" class="chair">
+      <img src="./imgs/png/chair3.png" alt="chair" class="chair">
+      <img src="./imgs/png/chair1.png" alt="chair" class="chair">
+    </section>
+    <section class="section s3">
+      <h1>Other</h1>
+    </section>
+  </div>
+  <script src="./Front-end/nav.js"></script>
+  <script src="./fullpage.min.js"></script>
+  <script src="./Front-end/landing.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TimelineMax.min.js"
+    integrity="sha512-lJDBw/vKlGO8aIZB8/6CY4lV+EMAL3qzViHid6wXjH/uDrqUl+uvfCROHXAEL0T/bgdAQHSuE68vRlcFHUdrUw=="
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js"
+    integrity="sha512-8Wy4KH0O+AuzjMm1w5QfZ5j5/y8Q/kcUktK9mPUVaUoBvh3QPUZB822W/vy7ULqri3yR8daH3F58+Y8Z08qzeg=="
+    crossorigin="anonymous"></script>
+</body>
+
 </html>
