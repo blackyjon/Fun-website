@@ -14,11 +14,11 @@ Used readme buttons from: [**Shields IO**](https://shields.io/) <--- This is a r
 
 # To start this project. 
 
-Starts new local server: (light-server)[https://www.npmjs.com/package/light-server]
+Starts new local server: [light-server](https://www.npmjs.com/package/light-server)
 `npm install` && `npm start`
 # Test Coverage 
 
-Test Coverage: (TestCafe)[https://devexpress.github.io/testcafe/]
+Test Coverage: [TestCafe](https://devexpress.github.io/testcafe/)
 For end to end javaScript testing. Currenly only runs example page.js.
 "npm run test" runs chrome by config default or "npm run" + "test-browser" 
 
