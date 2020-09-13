@@ -4,19 +4,27 @@
 
 <!-- github buttons -->
 
+![GitHub project name](https://img.shields.io/badge/project-Fun%20Website-red)
+
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)
 
-![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
+![GitHub issues](https://img.shields.io/github/issues/blackyjon/Fun-website)
 
-![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
+![GitHub pull requests](https://img.shields.io/badge/Pull%20Requests-0%20open-blue)
 
-![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)
+![GitHub stars)](https://img.shields.io/github/stars/blackyjon/Fun-website)
 
-![Tweet](https://img.shields.io/twitter/url?style=flat-square&logo=twitter&url=https%3A%2F%2Fnavendu.me%2Fnsfw-filter%2Findex.html)
+![GitHub forks)](https://img.shields.io/github/forks/blackyjon/Fun-website)
+
+![GitHub license](https://img.shields.io/github/license/blackyjon/Fun-website)
+
+![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fblackyjon%2FFun-website)
+
+Used readme buttons from: [**Shields IO**](https://shields.io/) <--- This is a really cool tool
 
 <!-- description of project -->
 
