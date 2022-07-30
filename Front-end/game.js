@@ -25,7 +25,7 @@ const game = () => {
             })
         })
 
-        //comuter options
+        //computer options
         const computerOptions = ['rock', 'paper', 'scissors'];
 
         options.forEach(option => {
